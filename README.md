@@ -1,7 +1,7 @@
 ## Oi, sou o Bernardo Bonês, estudande do mundo da computação!
 
-- 🔭 Hoje estou estudando desenvolvimento web;
-- 🌱 Estou aprendendo HTML e CSS;
+- 🔭 Hoje estou estudando desenvolvimento front-end;
+- 
 - 🤔 Sintam-se livres para ajudar ou comentar qualquer coisa.
 ##
 
