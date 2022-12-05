@@ -1,10 +1,5 @@
 ## Oi, sou o Bernardo Bonês, estudande do mundo da computação!
 
-- 🔭 Hoje estou estudando desenvolvimento front-end;
-- 
-- 🤔 Sintam-se livres para ajudar ou comentar qualquer coisa.
-##
-
 <div>
     <a href="https://github.com/BernardoBones"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoBones&show_icons=false&theme=gotham&include_all_commits=true&count_private=true&locale=pt-BR"/>
